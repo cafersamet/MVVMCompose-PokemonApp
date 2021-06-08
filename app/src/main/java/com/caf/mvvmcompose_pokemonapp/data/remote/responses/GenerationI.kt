@@ -1,6 +1,6 @@
 package com.caf.mvvmcompose_pokemonapp.data.remote.responses
 
 data class GenerationI(
-    val red-blue: RedBlue,
+    val redBlue: RedBlue,
     val yellow: Yellow
 )
